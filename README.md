@@ -34,7 +34,7 @@ curl --header "Content-Type: application/json" \
     } \
   ] \
 }' \
-https://vision.googleapis.com/v1/images:annotate?key=AIzaSyBscvGfMsRr3Y7hsyM7reGaY8kHgEhw0OA
+https://vision.googleapis.com/v1/images:annotate?key=<you_api_key>
 ```
 
 Divirtam-se!! :-)
