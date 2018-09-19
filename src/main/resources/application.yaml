@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /workshop-java
+
+infrastructure:
+  api-vision:
+    endpoint: https://vision.googleapis.com/v1/images:annotate
+    key:
